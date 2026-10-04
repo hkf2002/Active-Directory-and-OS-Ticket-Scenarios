@@ -1,11 +1,11 @@
 ## Table of Contents
 - [Purpose](#purpose)
-- [Lab Specifications](#lab specifications)
-- [Network Misconfiguration](#network misconfiguration)
-- [File Sharing](#file sharing)
-- [User Creation](#user creation)
-- [GPO Update](#gpo update)
-- [Account/Authentication Issues](#account/authentication issues)
+- [Lab Specifications](#labspecifications)
+- [Network Misconfiguration](#networkmisconfiguration)
+- [File Sharing](#filesharing)
+- [User Creation](#usercreation)
+- [GPO Update](#gpoupdate)
+- [Account/Authentication Issues](#account/authenticationissues)
 
 
 # Purpose
