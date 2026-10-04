@@ -31,7 +31,7 @@ The purpose of this lab is to demonstrate competency within OS Ticket and troubl
 
 | Type | Specifications |
 | ------------- | ------------- |
-| OS | Windows 10 Pro |
+| OS | Windows 11 Pro |
 | Memory | 4096MB |
 | CPU | 2 Cores |
 | Drive | 40GB |
