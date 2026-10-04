@@ -1,6 +1,6 @@
 ## Table of Contents
 - [Purpose](#purpose)
-- [Lab Specifications](#labspecifications)
+- [Specifications](#specifications)
 - [Network Misconfiguration](#networkmisconfiguration)
 - [File Sharing](#filesharing)
 - [User Creation](#usercreation)
@@ -19,7 +19,7 @@ The purpose of this lab is to demonstrate competency within OS Ticket and troubl
 - GPO Update
 - Account/Authentication Issues
  
-# Lab Specifications
+# Specifications
 
 | Type | Specifications |
 | ------------- | ------------- |
