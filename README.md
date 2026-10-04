@@ -27,7 +27,7 @@ The purpose of this lab is to demonstrate competency within OS Ticket and troubl
 | Memory | 4096MB |
 | CPU | 2 Cores |
 | Drive | 60GB |
-| Network | NAT |
+| Network | NAT & Internal |
 
 | Type | Specifications |
 | ------------- | ------------- |
@@ -35,7 +35,7 @@ The purpose of this lab is to demonstrate competency within OS Ticket and troubl
 | Memory | 4096MB |
 | CPU | 2 Cores |
 | Drive | 40GB |
-| Network | NAT |
+| Network | Internal |
 
 | Type | Specifications |
 | ------------- | ------------- |
