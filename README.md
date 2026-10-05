@@ -23,18 +23,18 @@ The purpose of this lab is to demonstrate competency within OS Ticket and troubl
 
 | Type | Specifications |
 | ------------- | ------------- |
-| OS | Windows Server 2016 |
+| OS | Windows Server 2025 |
 | Memory | 4096MB |
-| CPU | 2 Cores |
-| Drive | 60GB |
+| CPU | 4 Cores |
+| Drive | 50GB |
 | Network | NAT & Internal |
 
 | Type | Specifications |
 | ------------- | ------------- |
-| OS | Windows 10 Pro |
+| OS | Windows 11 Pro |
 | Memory | 4096MB |
-| CPU | 2 Cores |
-| Drive | 40GB |
+| CPU | 4 Cores |
+| Drive | 64GB |
 | Network | Internal |
 
 | Type | Specifications |
