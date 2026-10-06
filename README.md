@@ -1,19 +1,8 @@
-## Table of Contents
-- [Purpose](#purpose)
-- [Specifications](#specifications)
-- [Networking](#DNS|DHCP)
-- [File Sharing](#filesharing)
-- [User Creation](#usercreation)
-- [GPO Update](#gpoupdate)
-- [Account/Authentication Issues](#account/authenticationissues)
-
-
 # Purpose
 
 The purpose of this lab is to demonstrate competency within OS Ticket and troubleshooting common Active Directory issues.
 
-<ins>Examples include:</ins>
-- Network Misconfiguration
+- Network Issues
 - File Sharing
 - User Creation
 - GPO Update
@@ -45,4 +34,4 @@ The purpose of this lab is to demonstrate competency within OS Ticket and troubl
 | Drive | 50GB |
 | Network | NAT |
 
-# DNS | DHCP Issue
+# Network Issues
