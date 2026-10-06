@@ -1,7 +1,7 @@
 ## Table of Contents
 - [Purpose](#purpose)
 - [Specifications](#specifications)
-- [Network Issue](#DNS)
+- [Networking](#DNS|DHCP)
 - [File Sharing](#filesharing)
 - [User Creation](#usercreation)
 - [GPO Update](#gpoupdate)
@@ -45,4 +45,4 @@ The purpose of this lab is to demonstrate competency within OS Ticket and troubl
 | Drive | 50GB |
 | Network | NAT |
 
-# DNS
+# DNS | DHCP Issue
