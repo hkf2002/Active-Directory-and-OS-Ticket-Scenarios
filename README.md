@@ -3,11 +3,11 @@
 The purpose of this lab is to demonstrate competency within OS Ticket and troubleshooting common Active Directory issues.
 
 <ins>Examples Included:</ins>
-- Network Issues
 - File Sharing
 - User Creation
 - GPO Update
 - Account/Authentication Issues
+-Network Issues
  
 # Specifications
 
@@ -35,4 +35,4 @@ The purpose of this lab is to demonstrate competency within OS Ticket and troubl
 | Drive | 50GB |
 | Network | NAT |
 
-# Network Issues
+# File Sharing
