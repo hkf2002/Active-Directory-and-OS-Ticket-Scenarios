@@ -3,8 +3,8 @@
 The purpose of this lab is to demonstrate competency within OS Ticket and troubleshooting common Active Directory issues.
 
 <ins>Examples Included:</ins>
-- File Sharing
 - User Creation
+- File Sharing
 - GPO Update
 - Account/Authentication Issues
  - Network Issues
