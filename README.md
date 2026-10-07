@@ -34,4 +34,4 @@ The purpose of this lab is to demonstrate competency within OS Ticket and troubl
 | Drive | 50GB |
 | Network | NAT |
 
-# File Sharing
+# User Creation
