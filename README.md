@@ -7,6 +7,7 @@ The purpose of this lab is to demonstrate competency within OS Ticket and troubl
 - User Creation
 - GPO Update
 - Account/Authentication Issues
+
 -Network Issues
  
 # Specifications
